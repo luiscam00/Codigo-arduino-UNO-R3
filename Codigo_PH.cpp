@@ -14,7 +14,7 @@
 #define TURBIDITY_SENSOR_PIN A3
 
 // Configuración de WiFi
-const char* ssid = "ElSSID"; //Tú WIFI tiene un SSID, y lo debes poner aquí (Puedes buscar en Google cómo hacerlo, no es tan díficil)
+const char* ssid = "ElSSID"; //Tu WIFI tiene un SSID, y lo debes poner aquí (Puedes buscar en Google cómo hacerlo, no es tan díficil)
 const char* password = "LaContraseña"; //Aquí lo mismo que en el SSID, pero con la contraseña del wifi 
 
 // Crear objeto de OneWire y DS18B20
